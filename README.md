@@ -1,0 +1,1 @@
+This is one of the foundation projects for the Odin Project, it is a simple recipe page design to verify html and css fundamentals.
